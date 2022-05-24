@@ -78,10 +78,12 @@ plt.axis('off')
 
 
 ### Canny Edge detector output
-![exp8-1](https://user-images.githubusercontent.com/75235601/169961792-f8c59741-a82f-4a8a-9a69-393e447c1ca0.jpg)
+![exp8-3](https://user-images.githubusercontent.com/75235601/169961821-8bbe170a-f0e4-4fb1-96ff-11cf7074ae48.jpg)
+
 
 ### Display the result of Hough transform
-![exp8-3](https://user-images.githubusercontent.com/75235601/169961821-8bbe170a-f0e4-4fb1-96ff-11cf7074ae48.jpg)
+![exp8-1](https://user-images.githubusercontent.com/75235601/169961792-f8c59741-a82f-4a8a-9a69-393e447c1ca0.jpg)
+
 
 
 
