@@ -25,7 +25,10 @@ Using the HoughLinesP(),detect line co-ordinates for every points in the images.
 
 
 ## Program:
-
+```
+Devoloped by: ASHWIN AO
+Registration no: 212220230005
+```
 ### Read image and convert it to grayscale image
 ```Python
 import cv2
