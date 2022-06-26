@@ -1,4 +1,6 @@
-# Edge-Linking-using-Hough-Transform
+## Ex no: 8
+## Date: 18/5/2022
+# <p align="center">Edge-Linking-using-Hough-Transform
 ## Aim:
 To write a Python program to detect the lines using Hough Transform.
 
