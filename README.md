@@ -90,7 +90,12 @@ plt.axis('off')
 ![exp8-1](https://user-images.githubusercontent.com/75235601/169961792-f8c59741-a82f-4a8a-9a69-393e447c1ca0.jpg)
 
 
-
+```
+    
+    
+    
+    
+```
 
 ## Result:
 Thus the program is written with python and OpenCV to detect lines using Hough transform. 
